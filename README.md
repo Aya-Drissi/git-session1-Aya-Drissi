@@ -3,7 +3,7 @@
 **Name:** Aya Drissi
 **GitHub username:** Aya-Drissi
 
-A small web project used to practice the main Git and GitHub workflow.
+A small web project used to practice Git and GitHub, edited on GitHub.
 
 ## Technologies
 
