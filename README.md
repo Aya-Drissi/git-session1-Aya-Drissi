@@ -27,3 +27,5 @@ git --version
 ## Banner
 
 ![Project banner](assets/project-banner.svg)
+
+This line was added locally to practice git diff.
