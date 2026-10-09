@@ -1,6 +1,7 @@
 # Git & GitHub Assignment 1
 
 **Name:** Aya Drissi
+
 **GitHub username:** Aya-Drissi
 
 A small web project used to practice Git and GitHub, edited on GitHub.
